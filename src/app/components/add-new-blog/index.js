@@ -29,7 +29,7 @@ const AddNewBlog = ({
       <div className="p-6">
       
           <Button
-            className="bg-gray-900 rounded p-2 text-white "
+            className="bg-gray-900 rounded p-2 text-white cursor-pointer "
             onClick={() => setopnDialouge(true)}
           >
             Add New Blogs
